@@ -1,5 +1,5 @@
 **Final Professional Document: Lead Software Engineer Interview Preparation Guide**  
-**Inspira Financial | Health & Wealth Solutions Focus**  
+**Acme FinTech Financial | Health & Wealth Solutions Focus**  
 
 ---
 
@@ -12,7 +12,7 @@
 6. [Behavioral Framework (STAR Method)](#6-behavioral-framework-star-method)  
 7. [Software Engineering Principles](#7-software-engineering-principles)  
 8. [Azure Cloud Services](#8-azure-cloud-services)  
-9. [Why Inspira Financial?](#9-why-inspira-financial)  
+9. [Why Acme FinTech Financial?](#9-why-Acme FinTech-financial)  
 10. [Strategic Interview Questions](#10-strategic-interview-questions)  
 11. [Quick-Reference Cheat Sheet](#11-quick-reference-cheat-sheet)  
 
@@ -130,7 +130,7 @@ public void DetectsFraud(decimal amount, bool isATM, bool expected)
 
 **Performance Testing**  
 ```bash  
-dotnet-counters monitor -n Inspira.API --counters System.Runtime  
+dotnet-counters monitor -n Acme FinTech.API --counters System.Runtime  
 ```
 
 ---
@@ -193,7 +193,7 @@ Functions | Event-driven settlement processing |
 
 ---
 
-### **9. Why Inspira Financial?**  
+### **9. Why Acme FinTech Financial?**  
 **Impact**  
 - Architect solutions for **7M+ clients** and **$62B+ assets**.  
 - Lead greenfield projects post-First Dollar acquisition.  
